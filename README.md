@@ -13,7 +13,7 @@ First, you have to add the class `we-stand-with-ukraine` to a `<div>` :
 And then, copy this code in the `<head>...</head>` section of your page :
 
 ```html
-<link rel="stylesheet" href="https://sylvain-lissy.github.io/We-stand-with-Ukraine/we-stand-with-ukraine.css">`
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sylvain-lissy/we-stand-with-ukraine/we-stand-with-ukraine.css">
 ```
 
 Or, you can also add the CSS diretly into your stylesheet or HTML :
