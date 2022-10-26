@@ -18,8 +18,8 @@ And then, copy this code in the `<head>...</head>` section of your page :
 
 Or, you can also add the CSS diretly into your stylesheet or HTML
 
-> Update : 
->
+### Update : 
+
 > - Add mediaquery for better render on smartphone
 
 ## Credits
