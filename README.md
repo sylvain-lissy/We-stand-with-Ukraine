@@ -16,20 +16,11 @@ And then, copy this code in the `<head>...</head>` section of your page :
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sylvain-lissy/we-stand-with-ukraine/we-stand-with-ukraine.css">
 ```
 
-Or, you can also add the CSS diretly into your stylesheet or HTML :
+Or, you can also add the CSS diretly into your stylesheet or HTML
 
-```css
-.we-stand-with-ukraine {
-    left: -80px;
-    bottom: 20px;
-    transform: rotate(45deg);
-    background: linear-gradient(-180deg, rgb(0, 91, 187) 50%, rgb(255, 213, 0) 50%);
-    width: 300px;
-    height: 84px;
-    position: fixed;
-    z-index: 999;
-}
-```
+> Update : 
+>
+> - Add mediaquery for better render on smartphone
 
 ## Credits
 
